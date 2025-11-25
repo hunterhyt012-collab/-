@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise Dashboard",
+  "description": "A modern enterprise dashboard featuring comprehensive management modules for Users, Departments, Projects, Tasks, and Attendance with real-time clock functionality.",
+  "requestFramePermissions": []
+}
